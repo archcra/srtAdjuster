@@ -26,3 +26,7 @@ Two files:  helper, main
 
 ## Usage
 ./run.sh as an example
+
+当然，go 是跨平台的语言；可以在Windows上使用。如编译成windows上的可执行文件srtAdjuster，然后：
+
+srtAdjuster.exe -filename ./testData/tintin-partial-01.txt -offset 2000
