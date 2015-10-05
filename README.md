@@ -22,4 +22,7 @@ Two files:  helper, main
 
 
 ## test
-./testHelper.sh 
+./testHelper.sh
+
+## Usage
+./run.sh as an example
